@@ -7,12 +7,17 @@ This project leverages a pre-trained BERT model for Natural Language Processing 
 ## Installation Instructions
 
 1. Clone the repository:
-2. Navigate to the project directory:
+   ```
+   git clone 
+3. Navigate to the project directory:
    ```
    cd restaurant-review-classifier
-3. Install the required packages:
+4. Install the required packages:
    ```
-4. Run the application:
+   npm install
+5. Run the application:
+   ```
+   npm run dev
 
 ## Usage Instructions
 

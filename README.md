@@ -8,7 +8,7 @@ This project leverages a pre-trained BERT model for Natural Language Processing 
 
 1. Clone the repository:
    ```
-   git clone 
+   git clone https://github.com/sreeja3232/BERT-Project.git
 3. Navigate to the project directory:
    ```
    cd restaurant-review-classifier
